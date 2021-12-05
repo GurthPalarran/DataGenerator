@@ -2,7 +2,7 @@
 //
 
 #include "pch.h"
-#include "Data Generator.h"
+#include "DataGenerator.h"
 #include "ArgSetting.h"
 #include "afxdialogex.h"
 #include "DataList.h"

@@ -4,8 +4,8 @@
 
 #include "pch.h"
 #include "framework.h"
-#include "Data Generator.h"
-#include "Data GeneratorDlg.h"
+#include "DataGenerator.h"
+#include "DataGeneratorDlg.h"
 #include "afxdialogex.h"
 #include "ArgSetting.h"
 
